@@ -2,7 +2,7 @@ from pyrogram.emoji import *
 
 class TEXT:
     DOWNLOAD_START = f"Downloading Starts soon {ZZZ}"
-    UPLOAD_START = f"Upload Starting Soon {SHOOTING STAR}"
+    UPLOAD_START = f"Upload Starting Soon {SLEEPING_FACE}"
     UPLOAD_SUCESS = f"Thanks for using [Meh](https://t.me/+EchUI6-ui2wxZGVl)"
     BANNED_USER_TEXT = f"Hey bro, you are **banned** from using me {FACE_WITH_TEARS_OF_JOY}."
     NOT_LOGGED_TEXT = f"This bot was only for private use {LOCKED_WITH_KEY}. If you want to use this bot you need to send me correct password in the format `/login bot_password`"
